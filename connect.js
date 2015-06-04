@@ -78,6 +78,7 @@ var connect = new Connect();
 var req = {};
 var res = {};
 
+
 使用方法
 connect.use(function(req, res, next) {
   req.name = 'satoshi';
@@ -111,5 +112,4 @@ or
 connect.handle(req, res, function finalHandler() {
   console.log('登録関数呼び出しおわりー');
 });
-
 */
