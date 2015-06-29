@@ -1,7 +1,5 @@
-# first-step
+# My first github Experience
 
-初めてGitHubを使ってみました。
-
-本家Node.jsのサードパティライブリーであるconnect.jsの実装を理解するためだけに作ったものです。
+Node.jsのサードパティライブリーで有名なconnect.jsやexpress.jsの実装を理解するためだけに作ったものです。
 
 本番環境では本家connect.jsかexpress.jsを使用してください。
